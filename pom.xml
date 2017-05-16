@@ -74,7 +74,7 @@
         <pax-exam.version>4.3.0</pax-exam.version>
         <pax-url.version>2.2.0</pax-url.version>
         <felix.version>5.4.0</felix.version>
-        <hk2.version>2.5.0-b19</hk2.version>
+        <hk2.version>2.4.0</hk2.version>
     </properties>
     <licenses>
         <license>
